@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cars-ORM.iml" filepath="$PROJECT_DIR$/Cars-ORM.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_hibernate.iml" filepath="$PROJECT_DIR$/spring_hibernate.iml" />
     </modules>
   </component>

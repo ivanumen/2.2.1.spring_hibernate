@@ -10,6 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Cars-ORM" target="1.8" />
       <module name="spring_hibernate" target="1.8" />
     </bytecodeTargetLevel>
   </component>
